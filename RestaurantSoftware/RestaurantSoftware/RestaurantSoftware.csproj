@@ -76,6 +76,12 @@
     <Compile Include="P_Layer\Frm_DangNhap.Designer.cs">
       <DependentUpon>Frm_DangNhap.cs</DependentUpon>
     </Compile>
+    <Compile Include="P_Layer\Frm_PhucVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_Layer\Frm_PhucVu.Designer.cs">
+      <DependentUpon>Frm_PhucVu.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="FormMain.resx">
       <DependentUpon>FormMain.cs</DependentUpon>
     </EmbeddedResource>
@@ -94,6 +100,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="P_Layer\Frm_DangNhap.resx">
       <DependentUpon>Frm_DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_Layer\Frm_PhucVu.resx">
+      <DependentUpon>Frm_PhucVu.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

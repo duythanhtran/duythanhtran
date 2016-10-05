@@ -7,3 +7,5 @@ c:\users\truon\documents\visual studio 2013\Projects\RestaurantSoftware\Restaura
 c:\users\truon\documents\visual studio 2013\Projects\RestaurantSoftware\RestaurantSoftware\bin\Debug\RestaurantSoftware.pdb
 c:\users\truon\documents\visual studio 2013\Projects\RestaurantSoftware\RestaurantSoftware\obj\Debug\RestaurantSoftware.exe
 c:\users\truon\documents\visual studio 2013\Projects\RestaurantSoftware\RestaurantSoftware\obj\Debug\RestaurantSoftware.pdb
+E:\QuanLyNhaHang\RestaurantSoftware\RestaurantSoftware\obj\Debug\RestaurantSoftware.exe
+E:\QuanLyNhaHang\RestaurantSoftware\RestaurantSoftware\obj\Debug\RestaurantSoftware.pdb

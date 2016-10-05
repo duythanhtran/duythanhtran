@@ -1,0 +1,9 @@
+c:\users\truon\documents\visual studio 2013\Projects\RestaurantSoftware\RestaurantSoftware\obj\Debug\RestaurantSoftware.csprojResolveAssemblyReference.cache
+c:\users\truon\documents\visual studio 2013\Projects\RestaurantSoftware\RestaurantSoftware\obj\Debug\RestaurantSoftware.FormMain.resources
+c:\users\truon\documents\visual studio 2013\Projects\RestaurantSoftware\RestaurantSoftware\obj\Debug\RestaurantSoftware.Properties.Resources.resources
+c:\users\truon\documents\visual studio 2013\Projects\RestaurantSoftware\RestaurantSoftware\obj\Debug\RestaurantSoftware.csproj.GenerateResource.Cache
+c:\users\truon\documents\visual studio 2013\Projects\RestaurantSoftware\RestaurantSoftware\obj\Debug\RestaurantSoftware.exe.licenses
+c:\users\truon\documents\visual studio 2013\Projects\RestaurantSoftware\RestaurantSoftware\bin\Debug\RestaurantSoftware.exe
+c:\users\truon\documents\visual studio 2013\Projects\RestaurantSoftware\RestaurantSoftware\bin\Debug\RestaurantSoftware.pdb
+c:\users\truon\documents\visual studio 2013\Projects\RestaurantSoftware\RestaurantSoftware\obj\Debug\RestaurantSoftware.exe
+c:\users\truon\documents\visual studio 2013\Projects\RestaurantSoftware\RestaurantSoftware\obj\Debug\RestaurantSoftware.pdb
